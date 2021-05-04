@@ -4,7 +4,7 @@
 My name is Sidney Rodrigues!
 I'm a software developer student.
 
-- 💙 Interests: Java, Spring Boot, HTML, CSS, Typescript, React.
+- 💙 Interests: Java, Spring, HTML, CSS, Typescript, React.
 
 - 🌱 I’m currently learning Java, Spring Boot, React and Typescript.
 
