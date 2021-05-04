@@ -17,8 +17,6 @@ I'm a software developer student.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyrod&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
-<div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">&nbsp;&nbsp;
   <img align="center" alt="Spring" height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring">&nbsp;&nbsp;
@@ -30,3 +28,8 @@ I'm a software developer student.
   <img align="center" alt="Heroku" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
 </div>
 
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/sidney-rodrigues-6305b0148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
