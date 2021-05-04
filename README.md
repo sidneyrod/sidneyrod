@@ -8,7 +8,7 @@ I'm a software developer student.
 
 - 🌱 I’m currently learning Java, Spring Boot, React and Typescript.
 
-- My hobbies: 🎵 🥁 🎸🎹  I'm a musician with a specialty in drums (love DW drums), my musical instrument is bass (prefered music man stingray), but I also like to play acoustic guitar (takamine is my prefered) and a little bit piano. I can sing a little. 
+- My hobbies: 🎵 🥁 🎸🎹  I'm a musician with a specialty in drums (love DW drums), also bass (prefered music man stingray), but I also like to play acoustic guitar (takamine is my prefered) and a little bit piano. I can sing a little. 
 - 🎬 I love science fiction, suspense, romantic comedy, adventure and drama movies, series and travel with my wife. I love and have the facility to learn new things!
 
 <div>
