@@ -6,12 +6,12 @@ I'm a software developer student.
 
 - 💙 Interests: Java, Spring, HTML, CSS, Typescript, React.
 
-- 🌱 I’m currently learning Java, Spring Boot, React and Typescript.
+- 🌱 I’m always deepening my knowledge in Java, Spring Boot, React and Typescript.
 
 - My hobbies: 🎵 🥁 🎸🎹  I'm a musician with a specialty in Drums (love DW Drums), also Bass (prefered Music Man Stingray), but I also like to play acoustic guitar (Takamine is my prefered sound) and a little bit Piano. I can sing a little. 
 🎬 I love science fiction, suspense, romantic comedy, adventure and drama movies, series and travel with my wife. 
 
-- I love and have the facility to learn new things!
+- I love and I have facility to learn new things!
 
 <div>
   <a href="https://github.com/sidneyrod">
