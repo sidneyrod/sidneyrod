@@ -6,7 +6,7 @@ I'm a software developer student.
 
 - 💙 Interests: Java, Spring, HTML, CSS, Typescript, React.
 
-- 🌱 I’m always deepening and seeking more knowledge in Java, Spring Boot, React and Typescript.
+- 🌱 I’m always deepening and seeking more knowledge in Java, Spring Boot, React and Typescript and in general technologies.
 
 - My hobbies: 🎵 🥁 🎸🎹  I'm a musician with a specialty in Drums (love DW Drums), also Bass (prefered Music Man Stingray), but I also like to play acoustic guitar (Takamine is my prefered sound) and a little bit Piano. I can sing a little. 
 🎬 I love science fiction, suspense, romantic comedy, adventure and drama movies, series and travel with my wife. 
