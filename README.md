@@ -1,4 +1,4 @@
-# Hey <everyone/> 👋
+# Hey everyone 👋
 ![](https://komarev.com/ghpvc/?username=sidneyrod&color=blueviolet)
 
 My name is Sidney Rodrigues!
