@@ -13,6 +13,11 @@ I'm a software developer who is seeking an opportunity.
 
 - I love and I have facility to learn new things!
 
+<div>
+  <a href="https://github.com/sidneyrod">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyrod&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">&nbsp;&nbsp;
   <img align="center" alt="Spring" height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring">&nbsp;&nbsp;
