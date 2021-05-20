@@ -9,7 +9,7 @@ I'm a software developer who is seeking an opportunity.
 - 🌱 I’m always deepening and seeking more knowledge in Java, Spring family, React, Typescript and in general technologies.
 
 - My hobbies: 🎵 🥁 🎸🎹  I'm a musician with a specialty in Drums (DW Drums is the best sound for me), also Bass (prefered Music Man Stingray), but I also like to play acoustic guitar (Takamine is my prefered sound) and a little bit Piano. I can sing a little. 
-🎬 I love science fiction, suspense, romantic comedy, adventure and drama movies, series, RPG Games and travel with my wife . 
+🎬 I love science fiction, suspense, romantic comedy, adventure and drama movies, series, RPG Games and traveling with my wife . 
 
 - I love and I have facility to learn new things!
 
