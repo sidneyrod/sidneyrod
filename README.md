@@ -2,9 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=sidneyrod&color=blueviolet)
 
 My name is Sidney Rodrigues!
-I'm a software developer who is seeking an opportunity.
+I'm a software developer who is seeking increasingly to improve my skills.
 
-- 💙 Interests: Java, Spring, HTML, CSS, Typescript, React.
+- 💙 Interests: Java, Spring, Typescript, React, Angular.
 
 - 🌱 I’m always deepening and seeking more knowledge in Java, Spring family, React, Typescript and in general technologies.
 
