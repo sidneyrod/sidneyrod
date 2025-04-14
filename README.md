@@ -4,7 +4,7 @@
 My name is Sidney Rodrigues!
 I'm a software developer who is seeking increasingly to improve my skills.
 
-- 💙 Interests: Java, Spring, Typescript, React, Angular.
+- 💙 Interests: Python, Streamlit, Pandas, SQL, Java, Spring, React.
 
 - 🌱 I’m always deepening and seeking more knowledge in these types of technologies.
 
